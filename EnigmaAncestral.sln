@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaAncestral", "EnigmaAncestral.csproj", "{A7C18BA8-71FE-BFF2-3592-C5F1E26E9F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaAncestral.Plugins", "EnigmaAncestral.Plugins.csproj", "{25C316EB-E65C-B22C-6D0F-A5BB5B39085F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaAncestral.Editor.Plugins", "EnigmaAncestral.Editor.Plugins.csproj", "{5655758A-EF1A-73CF-A681-8E5286258FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnigmaAncestral.Editor", "EnigmaAncestral.Editor.csproj", "{56D1346C-308D-7D0E-F29E-3AF25BA6AE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C18BA8-71FE-BFF2-3592-C5F1E26E9F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C18BA8-71FE-BFF2-3592-C5F1E26E9F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C18BA8-71FE-BFF2-3592-C5F1E26E9F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C18BA8-71FE-BFF2-3592-C5F1E26E9F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C316EB-E65C-B22C-6D0F-A5BB5B39085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C316EB-E65C-B22C-6D0F-A5BB5B39085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C316EB-E65C-B22C-6D0F-A5BB5B39085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C316EB-E65C-B22C-6D0F-A5BB5B39085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5655758A-EF1A-73CF-A681-8E5286258FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5655758A-EF1A-73CF-A681-8E5286258FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5655758A-EF1A-73CF-A681-8E5286258FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5655758A-EF1A-73CF-A681-8E5286258FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D1346C-308D-7D0E-F29E-3AF25BA6AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D1346C-308D-7D0E-F29E-3AF25BA6AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D1346C-308D-7D0E-F29E-3AF25BA6AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D1346C-308D-7D0E-F29E-3AF25BA6AE55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

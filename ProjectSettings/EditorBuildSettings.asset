@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/huella.unity
+    guid: 5f38c2f29e2a6e141b1d13054464e580
+  - enabled: 1
+    path: Assets/Scenes/narrativa_general.unity
+    guid: 55fa3e5d46bb8284faac72a7cfdab6e1
+  - enabled: 1
+    path: Assets/Scenes/narrativa_topico.unity
+    guid: 59e20ac40b724d64b836572b41d69811
+  - enabled: 1
+    path: Assets/Scenes/narrativa_GF.unity
+    guid: 2d87454ef7ac5f443992a7b2d6720e20
+  - enabled: 1
+    path: Assets/Scenes/petroGlifo.unity
+    guid: 03452443b83093d4484123d357a16179
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: a3975758e29f8344a89e861a5e253b59
+  - enabled: 1
+    path: Assets/Scenes/escena preguntas.unity
+    guid: 1c128fc3d717d0d4bad83210a611724e

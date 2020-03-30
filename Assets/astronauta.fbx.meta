@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: d6562dd15527c474092a394ad927c946
+timeCreated: 1554399431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: astronauta_1
+    100004: casco
+    100006: casco_vidrio
+    100008: correa_3
+    100010: correa_4
+    100012: correa_p1
+    100014: correa_p2
+    100016: correa_p3
+    100018: correa_p4
+    100020: correa_p5
+    100022: correa_p6
+    100024: correa_p7
+    100026: default1
+    100028: maleta
+    100030: tubo1
+    100032: tubo_2
+    100034: tubos1
+    400000: //RootNode
+    400002: astronauta_1
+    400004: casco
+    400006: casco_vidrio
+    400008: correa_3
+    400010: correa_4
+    400012: correa_p1
+    400014: correa_p2
+    400016: correa_p3
+    400018: correa_p4
+    400020: correa_p5
+    400022: correa_p6
+    400024: correa_p7
+    400026: default1
+    400028: maleta
+    400030: tubo1
+    400032: tubo_2
+    400034: tubos1
+    2100000: astronauta_tex
+    2300000: astronauta_1
+    2300002: casco
+    2300004: casco_vidrio
+    2300006: correa_3
+    2300008: correa_4
+    2300010: correa_p1
+    2300012: correa_p2
+    2300014: correa_p3
+    2300016: correa_p4
+    2300018: correa_p5
+    2300020: correa_p6
+    2300022: correa_p7
+    2300024: default1
+    2300026: maleta
+    2300028: tubo1
+    2300030: tubo_2
+    2300032: tubos1
+    3300000: astronauta_1
+    3300002: casco
+    3300004: casco_vidrio
+    3300006: correa_3
+    3300008: correa_4
+    3300010: correa_p1
+    3300012: correa_p2
+    3300014: correa_p3
+    3300016: correa_p4
+    3300018: correa_p5
+    3300020: correa_p6
+    3300022: correa_p7
+    3300024: default1
+    3300026: maleta
+    3300028: tubo1
+    3300030: tubo_2
+    3300032: tubos1
+    4300000: astronauta_1
+    4300002: casco
+    4300004: casco_vidrio
+    4300006: correa_3
+    4300008: correa_4
+    4300010: correa_p1
+    4300012: correa_p2
+    4300014: correa_p3
+    4300016: correa_p4
+    4300018: correa_p5
+    4300020: correa_p6
+    4300022: correa_p7
+    4300024: default1
+    4300026: maleta
+    4300028: tubo1
+    4300030: tubo_2
+    4300032: tubos1
+    7400000: HumanoidIdle
+    7400002: StandQuarterTurnRight
+    7400004: StandHalfTurnRight
+    7400006: StandQuarterTurnLeft
+    7400008: StandHalfTurnLeft
+    7400010: HumanoidWalk
+    7400012: HumanoidWalkRightSharp
+    7400014: HumanoidWalkRight
+    7400016: HumanoidWalkLeftSharp
+    7400018: HumanoidWalkLeft
+    7400020: HumanoidRun
+    7400022: HumanoidRunRightSharp
+    7400024: HumanoidRunLeftSharp
+    7400026: HumanoidRunRight
+    7400028: HumanoidRunLeft
+    7400030: HumanoidCrouchIdle
+    7400032: HumanoidCrouchWalk
+    7400034: HumanoidCrouchWalkLeft
+    7400036: HumanoidCrouchWalkRightB
+    7400038: HumanoidMidAirRight
+    7400040: HumanoidJumpForwardRight
+    7400042: HumanoidJumpForwardLeft
+    7400044: HumanoidFall
+    7400046: HumanoidMidAirLeft
+    7400048: HumanoidJumpUp
+    7400050: HumanoidMidAir
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
