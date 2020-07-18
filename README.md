@@ -6,10 +6,12 @@ roman empire, renaissance, and cold war". The years are codified in a petroglyph
 ## Some escenes ⚙️
 * **01** Chibcha petroglyph with strange patterns <br>
 <image src="https://github.com/vicjomaa/AncestralEnigma-ATI/blob/master/Images/enig2.png" height="256" width="455"><image/>
-* **02** Roman Empire level: The player must collect  info about the geocentrisim  
- <br>
+* **02** Roman Empire level: The player must collect  info about the geocentrisim   <br>
+ 
 <image src="https://github.com/vicjomaa/AncestralEnigma-ATI/blob/master/Images/eni4.gif" ><image/>
+ 
  * **03** Cold war level: The player must rescue data lost in a old spatial labs <br>
+ 
 <image src="https://github.com/vicjomaa/AncestralEnigma-ATI/blob/master/Images/eni3.gif" ><image/>
 
 
