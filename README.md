@@ -26,4 +26,4 @@ roman empire, renaissance, and cold war". The years are codified in a petroglyph
 * UX design: Milton Mahecha and Victor Mahecha
 * 3d Artist: Valentina Diaz
 * UI: Cristian Sabogal.
-* Programmers :  Milton Mahecha and Victor Mahecha.
+* Programmers :   Milton Mahecha and Victor Mahecha.
